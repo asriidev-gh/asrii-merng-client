@@ -13,8 +13,6 @@ import Home from "./pages/Home";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
 import SinglePost from "./pages/SinglePost";
-import { useQuery } from "@apollo/react-hooks";
-import { FETCH_POSTS_QUERY } from "./util/graphql";
 
 function App() {
   return (

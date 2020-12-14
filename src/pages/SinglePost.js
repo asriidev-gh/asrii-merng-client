@@ -16,7 +16,6 @@ import { AuthContext } from "../context/auth";
 
 import LikeButton from "../components/LikeButton";
 import DeleteButton from "../components/DeleteButton";
-import MyPop from "../util/MyPopup";
 import MyPopup from "../util/MyPopup";
 
 function SinglePost(props) {
